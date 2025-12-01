@@ -1,0 +1,251 @@
+{
+    "IT_band": {
+      "injury_name": "IT Band Syndrome",
+      "description": "Inflammation of the iliotibial band, causing pain on the outside of the knee",
+      "exercises": [
+        {
+          "name": "Clamshells",
+          "sets": 3,
+          "reps": 20,
+          "frequency": "Daily",
+          "instructions": "Lie on side, knees bent at 90°. Keep feet together and lift top knee. Hold 2 seconds.",
+          "why": "Activates glute medius for hip stability, reducing IT band stress"
+        },
+        {
+          "name": "Side-lying Hip Abduction",
+          "sets": 3,
+          "reps": 15,
+          "frequency": "Daily",
+          "instructions": "Lie on side, bottom leg bent. Lift top leg straight up 45°. Lower slowly.",
+          "why": "Strengthens hip abductors directly to support proper running mechanics"
+        },
+        {
+          "name": "Single-leg Romanian Deadlift",
+          "sets": 3,
+          "reps": 10,
+          "frequency": "3x per week",
+          "instructions": "Stand on one leg, hinge at hip keeping back straight. Lower torso while extending other leg back.",
+          "why": "Improves hip stability and posterior chain strength"
+        },
+        {
+          "name": "IT Band Foam Rolling",
+          "sets": 1,
+          "duration": "2 minutes per side",
+          "frequency": "Daily",
+          "instructions": "Lie on side with foam roller under outer thigh. Roll from hip to knee slowly.",
+          "why": "Releases tension in IT band and surrounding fascia"
+        }
+      ],
+      "training_modifications": [
+        "Reduce weekly mileage by 20% for 2 weeks",
+        "Avoid hills and cambered surfaces",
+        "No speed work for 2 weeks",
+        "Run on flat, even surfaces only"
+      ],
+      "return_to_running_criteria": [
+        "No pain during daily activities for 3 consecutive days",
+        "Can perform all exercises pain-free",
+        "Gradual return: start with 50% of previous mileage"
+      ]
+    },
+    
+    "plantar_fasciitis": {
+      "injury_name": "Plantar Fasciitis",
+      "description": "Inflammation of the plantar fascia, causing heel pain especially in morning",
+      "exercises": [
+        {
+          "name": "Calf Stretches (Wall)",
+          "sets": 3,
+          "duration": "30 seconds per leg",
+          "frequency": "Daily, especially before running",
+          "instructions": "Face wall, one leg back straight. Lean forward until calf stretches. Keep heel down.",
+          "why": "Releases tension in calf muscles that stress the plantar fascia"
+        },
+        {
+          "name": "Towel Curls",
+          "sets": 3,
+          "reps": 15,
+          "frequency": "Daily",
+          "instructions": "Sit with towel under foot. Curl toes to scrunch towel toward you.",
+          "why": "Strengthens intrinsic foot muscles for arch support"
+        },
+        {
+          "name": "Plantar Fascia Stretch",
+          "sets": 3,
+          "duration": "30 seconds per foot",
+          "frequency": "Daily, especially morning",
+          "instructions": "Sit, cross ankle over knee. Pull toes back toward shin.",
+          "why": "Directly stretches plantar fascia to reduce morning pain"
+        },
+        {
+          "name": "Marble Pickups",
+          "sets": 2,
+          "reps": "20 marbles",
+          "frequency": "Daily",
+          "instructions": "Use toes to pick up marbles one at a time, place in cup.",
+          "why": "Strengthens small foot muscles for better arch support"
+        }
+      ],
+      "training_modifications": [
+        "Reduce weekly mileage by 25%",
+        "Avoid speed work and hills",
+        "Ice foot after runs (15 minutes)",
+        "Consider more cushioned shoes"
+      ],
+      "return_to_running_criteria": [
+        "No pain first thing in morning for 1 week",
+        "Can walk 30 minutes pain-free",
+        "Gradual return: increase mileage 10% per week max"
+      ]
+    },
+    
+    "achilles_tendonitis": {
+      "injury_name": "Achilles Tendonitis",
+      "description": "Inflammation of the Achilles tendon, causing pain in back of heel/ankle",
+      "exercises": [
+        {
+          "name": "Eccentric Heel Drops",
+          "sets": 3,
+          "reps": 15,
+          "frequency": "Daily",
+          "instructions": "Stand on step on balls of feet. Rise up, then slowly lower heels below step level over 3 seconds.",
+          "why": "THE gold standard for Achilles healing - eccentric loading stimulates tendon repair"
+        },
+        {
+          "name": "Calf Raises (Straight Leg)",
+          "sets": 3,
+          "reps": 20,
+          "frequency": "Daily",
+          "instructions": "Stand, rise up onto toes. Hold 2 seconds, lower slowly.",
+          "why": "Strengthens gastrocnemius to support Achilles tendon"
+        },
+        {
+          "name": "Calf Raises (Bent Knee)",
+          "sets": 3,
+          "reps": 20,
+          "frequency": "Daily",
+          "instructions": "Stand, bend knees slightly. Rise onto toes. Hold 2 seconds, lower.",
+          "why": "Strengthens soleus muscle which also attaches to Achilles"
+        },
+        {
+          "name": "Achilles Tendon Massage",
+          "sets": 1,
+          "duration": "5 minutes per leg",
+          "frequency": "Daily",
+          "instructions": "Gently massage Achilles tendon with thumb and fingers, working up and down.",
+          "why": "Improves blood flow and reduces adhesions"
+        }
+      ],
+      "training_modifications": [
+        "Reduce mileage by 30-40%",
+        "NO speed work or hills for 4 weeks",
+        "Avoid toe-running - focus on midfoot strike",
+        "Ice after every run"
+      ],
+      "return_to_running_criteria": [
+        "No pain when walking or during daily activities",
+        "Can perform 3x15 single-leg heel raises pain-free",
+        "Very gradual return: 2-3 miles every other day for 2 weeks"
+      ]
+    },
+    
+    "shin_splints": {
+      "injury_name": "Medial Tibial Stress Syndrome (Shin Splints)",
+      "description": "Pain along the inner edge of the shin bone",
+      "exercises": [
+        {
+          "name": "Toe Raises",
+          "sets": 3,
+          "reps": 20,
+          "frequency": "Daily",
+          "instructions": "Stand, lift toes up while keeping heels on ground. Hold 2 seconds.",
+          "why": "Strengthens tibialis anterior to reduce shin stress"
+        },
+        {
+          "name": "Ankle Alphabet",
+          "sets": 2,
+          "reps": "Full alphabet per foot",
+          "frequency": "Daily",
+          "instructions": "Sit, lift foot off ground. 'Write' the alphabet with your toes.",
+          "why": "Improves ankle mobility and strength in all directions"
+        },
+        {
+          "name": "Resistance Band Dorsiflexion",
+          "sets": 3,
+          "reps": 15,
+          "frequency": "Daily",
+          "instructions": "Sit, loop band around foot. Pull toes toward shin against resistance.",
+          "why": "Directly strengthens muscles that support the shin"
+        },
+        {
+          "name": "Shin Massage with Ice Cup",
+          "sets": 1,
+          "duration": "10 minutes",
+          "frequency": "After runs",
+          "instructions": "Freeze water in paper cup. Peel back paper and massage shins in circles.",
+          "why": "Reduces inflammation and promotes healing"
+        }
+      ],
+      "training_modifications": [
+        "Reduce mileage by 30%",
+        "Run on soft surfaces (grass, trail) only",
+        "Avoid hard pavement and concrete",
+        "No speed work for 3 weeks"
+      ],
+      "return_to_running_criteria": [
+        "No pain when hopping on one leg",
+        "No pain when walking briskly",
+        "Return gradually on soft surfaces first"
+      ]
+    },
+    
+    "runners_knee": {
+      "injury_name": "Patellofemoral Pain Syndrome (Runner's Knee)",
+      "description": "Pain around or behind the kneecap, often during running or stairs",
+      "exercises": [
+        {
+          "name": "Terminal Knee Extensions",
+          "sets": 3,
+          "reps": 15,
+          "frequency": "Daily",
+          "instructions": "Stand with resistance band behind knee. Straighten leg fully against resistance.",
+          "why": "Strengthens VMO (inner quad) for proper kneecap tracking"
+        },
+        {
+          "name": "Wall Sits",
+          "sets": 3,
+          "duration": "30-60 seconds",
+          "frequency": "Daily",
+          "instructions": "Back against wall, slide down to 90° knee bend. Hold position.",
+          "why": "Builds quad endurance for knee stability"
+        },
+        {
+          "name": "Step Downs (Eccentric)",
+          "sets": 3,
+          "reps": 12,
+          "frequency": "Daily",
+          "instructions": "Stand on step, slowly lower opposite leg to tap floor. Rise back up.",
+          "why": "Eccentric quad loading improves patellar tracking"
+        },
+        {
+          "name": "Hip Flexor Stretch",
+          "sets": 3,
+          "duration": "30 seconds per side",
+          "frequency": "Daily",
+          "instructions": "Kneel, one foot forward. Push hips forward until stretch in front of back hip.",
+          "why": "Tight hip flexors alter running mechanics and stress the knee"
+        }
+      ],
+      "training_modifications": [
+        "Reduce mileage by 25%",
+        "Avoid hills (especially downhill)",
+        "Shorten stride slightly",
+        "Focus on cadence >170 steps/min"
+      ],
+      "return_to_running_criteria": [
+        "Can walk up/down stairs pain-free",
+        "Can perform single-leg squat pain-free",
+        "Gradual return with focus on form"
+      ]
+    }
+  }

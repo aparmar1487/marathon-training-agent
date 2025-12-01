@@ -1,0 +1,12 @@
+{
+  "name": "avanti",
+  "age": 35,
+  "weight": 175.0,
+  "goal_distance": "Half Marathon",
+  "ability_level": "beginner",
+  "current_weekly_mileage": 6.0,
+  "goal_race_date": "2026-05-10T00:00:00",
+  "has_milestone": false,
+  "milestone_date": null,
+  "milestone_distance": null
+}
